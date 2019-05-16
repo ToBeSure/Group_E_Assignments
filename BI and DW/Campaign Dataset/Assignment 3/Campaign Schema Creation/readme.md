@@ -3,8 +3,13 @@ This folder contains some files to allow us to create the MYSQL DB Schmea and ta
 Instructions: 
 Run the scripts in this order:
 
-01_Create_CampaignSchema.sql
-02_Campaign_Dump_16052019.sql
+* 01_Create_CampaignSchema.sql
+* 02_Campaign_Dump_16052019.sql
+
+You can run the scripts in one of two ways:
+copy the contents of each of those scripts into an SQL editor and then call execute
+OR
+execute the sql directly from the file 
 
 **You will get some warnings similar to the below which are to do with the UTF8 encoding - you can ignore these errors and proceed:**
 
