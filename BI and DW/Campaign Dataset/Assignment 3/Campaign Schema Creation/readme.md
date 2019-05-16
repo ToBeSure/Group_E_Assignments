@@ -13,7 +13,7 @@ execute the sql directly from the file
 
 **You will get some warnings similar to the below which are to do with the UTF8 encoding - you can ignore these errors and proceed:**
 
-14:24:51	CREATE SCHEMA IF NOT EXISTS `campaign` DEFAULT CHARACTER SET utf8	1 row(s) affected, 1 warning(s): 3719 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.	0.015 sec
+14:24:51	CREATE SCHEMA IF NOT EXISTS \`campaign\` DEFAULT CHARACTER SET utf8	1 row(s) affected, 1 warning(s): 3719 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.	0.015 sec
 
 After you have run the above, you will then have a schema containging the 5 Tables:
 * d_date
