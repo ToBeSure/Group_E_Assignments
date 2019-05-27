@@ -1,10 +1,10 @@
 ## This assignment was submitted on Thursday Wednesday May 23rd 2019 by Ana.
-*The known issues in the previous day's submission were corrected before submission.
-*This was the issue with the population of the Bridge Table and the Fact Tables.
-*Some changes to the Pentaho Transfomrations were made in thi sversion of the Pentaho Job structure.
+- The known issues in the previous day's submission were corrected before submission.
+- This was the issue with the population of the Bridge Table and the Fact Tables.
+- Some changes to the Pentaho Transfomrations were made in thi sversion of the Pentaho Job structure.
 
 ## The zip file in this folder was what was submitted.  
-*The submission email is below.
+- The submission email is below.
 
 "
 ---------- Mensaje reenviado ---------
