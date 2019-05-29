@@ -15,6 +15,7 @@ SELECT count(*) FROM campaign.d_product;
 
 SELECT count(*) FROM campaign.f_sales_marketing;
 # 0
+# finally I got 32940 records after I ran the Pentaho transformations successfully. 
 
 SELECT count(*) FROM campaign.d_shopping_center;
 #6 
